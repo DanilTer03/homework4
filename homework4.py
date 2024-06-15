@@ -1,0 +1,7 @@
+my_string = str(input())
+print('Количество символов в строке равно ', len(my_string))
+print('Строка в верхнем регистре ',my_string .upper())
+print('Строка в нижнем регистре ', my_string .lower())
+print('Строка без проблеов ', my_string .replace(' ', ''))
+print('Первый символ ', my_string[0])
+print('Последний символ ', my_string[-1])
